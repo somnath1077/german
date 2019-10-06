@@ -1,0 +1,95 @@
+German Cases
+*********************************************************************************
+
+Cases indicate the role that nouns and pronouns play in a sentence. In German, 
+the following four types of words: (1) nouns, (2) pronouns, (3) articles, and 
+(4) adjectives are spelt differently depending on the case that they represent 
+in a sentence.
+
+German has four cases: (1) Nominative, (2) Accusative, (3) Dative, (4) Genetive.
+
+NOMINATIVE
+***********
+
+The nominative case describes the subject of a sentence. It answers the question:
+"who?" or "wer?"
+
+ACCUSATIVE
+**********
+
+The accusative case describes the direct object of a sentence. It answers the 
+question: "whom?" or "wen?". Some prepositions always take the accusative case.
+These are:
+
+* durch 
+* bis
+* für 
+* ohne
+* entlang (along)
+* gegen (against)
+* um (around)
+
+Masculine | den        | ihn
+Feminine  | die        | sie
+Neutral   | das        | es
+Plural    | die        | sie/Sie
+
+DATIVE
+******
+
+The dative case describes the indirect object of the sentence and answers the 
+question "wem?" (whom) or "was?" (what).
+
+Masculine | dem        | ihm
+Feminine  | der        | ihr
+Neutral   | dem        | ihm
+Plural    | den ... n  | ihnen/Ihnen
+
+Certain verbs must be used only with the Dativ case. Some of these are:
+
+* antworten
+* danken
+* folgen
+* fehlen
+* gehören
+* gefallen 
+* gratulieren
+* glauben
+* helfen
+* schmecken
+* vertrauen
+* zuhören
+
+Several prepositions take the dative case:
+
+* aus (out)
+* auβer (besides) 
+* bei (next to) 
+* mit (with) 
+* nach (after)
+* seit (since) 
+* von (from) 
+* zu (to) 
+* gegenüber (opposite) 
+
+GENETIVE
+********
+
+
+The genetive is used to show possession, ownership and close relationship. It 
+answers the question "wessen?" (whose).
+
+Masculine | des        
+Feminine  | der        
+Neutral   | des        
+Plural    | der      
+
+Certain prepositions always take the genetive case:
+
+* anstatt (instead of)
+* außerhalb (outside of)
+* innerhalb (inside of)
+* trotz (despite)
+* während (during)
+* wegen (because of) 
+ 
