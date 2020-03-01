@@ -98,13 +98,13 @@ SUMMARY
 
 Nominative (nom.)            Accusative (acc.)                Dative (dat.)
 **********************************************************************************************
-ich (I)                         mich (me)	                    mir (me)
-du (you) (s., inf.)	            dich (you) (s., inf.)	        dir (you) (s., inf.)
-er (he)	                        ihn (him)	                    ihm (him)
-sie (she)	                    sie (her)	                    ihr (her)
-es (it)	                        es (it)	                        ihm (it)
-wir (we)	                    uns (us)	                    uns (us)
-ihr (you) (pl., inf.)	        euch (you) (pl., inf.)	        euch (you) (pl., inf.)
-sie (they)	                    sie (them)	                    ihnen (them)
-Sie (you) (s. or pl., form.)	Sie (you) (s. or pl., form.)	Ihnen (you) (s. or pl., form.) 
+ich (I)                         mich (me)                       mir (me)
+du (you) (s., inf.)             dich (you) (s., inf.)           dir (you) (s., inf.)
+er (he)                         ihn (him)                       ihm (him)
+sie (she)                       sie (her)                       ihr (her)
+es (it)                         es (it)                         ihm (it)
+wir (we)                        uns (us)                        uns (us)
+ihr (you) (pl., inf.)           euch (you) (pl., inf.)          euch (you) (pl., inf.)
+sie (they)                      sie (them)                      ihnen (them)
+Sie (you) (s. or pl., form.)    Sie (you) (s. or pl., form.)    Ihnen (you) (s. or pl., form.) 
  
