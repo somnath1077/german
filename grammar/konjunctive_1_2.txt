@@ -58,6 +58,26 @@ ihr           dürftet     könntet          möchtet      müsstet       sollte
 sie           dürften     könnten          möchten      müssten       sollten         wollten
 ----------------------------------------------------------------------------------------------------
 
+Konjunktive II Form with Other Verbs
+----------------------------------------------------------------------------------------------------
+          Verb                  Konjunktiv II
+----------------------------------------------------------------------------------------------------
+      brauchen (to need)        ich bräuchte
+      bringen (to bring)        ich brächte
+      denken (to think)	        ich dächte
+      finden (to find)          ich fände
+      geben (to give)           ich gäbe
+      gehen (to go)             ich ginge
+      kommen (to come)          ich käme
+      tun (to do)               ich täte
+      wissen (to know)          ich wüsste
+------------------------------------------------------------------------------------------------------
+
+Würde + Infinitive Construction
+-------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
