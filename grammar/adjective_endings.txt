@@ -84,3 +84,7 @@ Examples:
 4. Der Mann ist alt/Die Frau läuft schnell/Das Kind schreit laut.
 5. Wir essen ein leckeres Butterbrot mit frischem Schinken, frischer Wurst.
 6. Ich esse ihren alten Apfel/ihre alte Kuh/ihre altes Schmalz/ihre alten Bananen.
+7. Das ist der kanke Mann/die kranke Frau/das krake Kind/Das sind die kranken Menschen.
+8. Ich esse den alten Apfel, /die alte Kuh/das alte Schmalz/die alten Bananen.
+9. Das ist ein kranker Mann/eine kranke Frau/ein krankes Kind; Das sind keine kranken Menschen.
+10. Wir helfen dem alten Mann/der alten Frau/dem alten Stinktier / den alten Leuten.
