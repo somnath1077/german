@@ -58,7 +58,7 @@ Genitive      eines alten       einer alten  eines alten   (keiner) alten
 
 Definite article – der, die, das
 ----------------------------------------------------------------------------
-                Masculine	     Feminine      Neuter      Plural
+                Masculine        Feminine      Neuter      Plural
 Nominative      der alte         die alte    das alte   die alten
 Accusative      den alten        die alte    das alte   die alten
 Dative          dem alten        der alten   dem alten  den alten
