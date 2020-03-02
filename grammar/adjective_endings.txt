@@ -52,8 +52,8 @@ Indefinite article - ein, eine
                Masculine        Feminine      Neuter        Plural
 Nominative    ein alter         eine alte    ein altes     (keine) alten
 Accusative    einen alten       eine alte    ein altes     (keine) alten
-Dative        einem alten	    einer alten  einem alten   (keinen) alten
-Genitive	  eines alten       einer alten  eines alten   (keiner) alten
+Dative        einem alten       einer alten  einem alten   (keinen) alten
+Genitive      eines alten       einer alten  eines alten   (keiner) alten
 ----------------------------------------------------------------------------
 
 Definite article – der, die, das
@@ -61,7 +61,7 @@ Definite article – der, die, das
                 Masculine	     Feminine      Neuter      Plural
 Nominative      der alte         die alte    das alte   die alten
 Accusative      den alten        die alte    das alte   die alten
-Dative          dem alten        der alten	 dem alten  den alten
+Dative          dem alten        der alten   dem alten  den alten
 Genitive        des alten        der alten   des alten  der alten
 -----------------------------------------------------------------------------
 
