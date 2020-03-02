@@ -18,7 +18,7 @@ The verbs used most often with indirect speech
 * vermuten (to assume, to suppose)
 * versprechen (to promise)
 
-KONJUNCTIVE II
+KONJUNKTIVE II
 ------------------------------------------------------------------------
 It is used to express:
 
@@ -34,7 +34,7 @@ It is used to express:
 * Recommendations or suggestions
   Wenn ich an deiner Stelle wäre, würde ich ein gutes Buch kaufen. 
 
-Konjunctive II Form for the Verbs haben, sein, werden
+Konjunktive II Form for the Verbs haben, sein, werden
 ------------------------------------------------------------------------
              sein            haben      werden
 ------------------------------------------------------------------------
@@ -45,6 +45,21 @@ wir          wären           hätten     würden
 ihr          wärt/wäret      hättet     würdet
 sie          wären           hätten     würden 
 ------------------------------------------------------------------------
+
+Konjunktive II Form with Modal Verbs
+---------------------------------------------------------------------------------------------------
+            dürfen (may)  können (be able) mögen (like) müssen (must) sollen (should) wollen (want)
+---------------------------------------------------------------------------------------------------
+ich           dürfte      könnte           möchte       müsste        sollte          wollte
+du            dürftest    könntest         möchtest     müsstest      solltest        wolltest
+er/sie/es     dürfte      könnte           möchte       müsste        sollte          wollte
+wir           dürften     könnten          möchten      müssten       sollten         wollten
+ihr           dürftet     könntet          möchtet      müsstet       solltet         wolltet
+sie           dürften     könnten          möchten      müssten       sollten         wollten
+----------------------------------------------------------------------------------------------------
+
+
+
 
  
 
