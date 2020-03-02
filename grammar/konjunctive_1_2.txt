@@ -32,7 +32,19 @@ It is used to express:
   Er meint er würde gut singen.
 
 * Recommendations or suggestions
-  Wenn ich an deiner Stelle wäre, würde ich ein gutes Buch kaufen.  
+  Wenn ich an deiner Stelle wäre, würde ich ein gutes Buch kaufen. 
+
+Konjunctive II Form for the Verbs haben, sein, werden
+------------------------------------------------------------------------
+             sein            haben      werden
+------------------------------------------------------------------------
+ich          wäre            hätte      würde
+du           wärst/wärest    hättest    würdest
+er/sie/es    wäre            hätte      würde
+wir          wären           hätten     würden
+ihr          wärt/wäret      hättet     würdet
+sie          wären           hätten     würden 
+------------------------------------------------------------------------
 
  
 
