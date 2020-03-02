@@ -1,9 +1,14 @@
-There are two types of adjective endings based on whether a definite 
-article is used or not. If an indefinite article is used (ein, eine, ...)
-the ending is called a strong ending; if a definite article is used, the 
-ending is called a weak ending. 
+There are three types of adjective endings based on whether (1) no 
+article is used (2) an indfinite article is used (3) a definite 
+article is used. 
 
-STRONG ENDINGS: with indefinite articles
+STRONG INFLECTION: no articles
+--------------------------------------------------------------------------
+* When no article is used
+* When a quantity is indicated by
+  * etwas, mehr, wenig, viel, mehrer, einig
+  * a number, without a definite article before it
+  * non-inflectable phrases: ein paar, ein bisschen
 --------------------------------------------------------------------------
            M.      F.      N.      Pl.
 --------------------------------------------------------------------------
@@ -11,12 +16,25 @@ Nom.       er      e       es      e
 --------------------------------------------------------------------------
 Akk.       en      e       es      e                                      
 --------------------------------------------------------------------------
-Dat.       en      en      en      en                                     
+Dat.       en      er      em      en                                     
 --------------------------------------------------------------------------
-Gen.       en      en      en      er                                     
+Gen.       en      er      en      er                                     
 --------------------------------------------------------------------------
 
-WEAK ENDINGS: with definite articles
+MIXED INFLECTION: with indefinite articles
+--------------------------------------------------------------------------
+             M.         F.          N.       Pl.
+--------------------------------------------------------------------------
+Nom.       neuer      neue       neues      neue                                      
+--------------------------------------------------------------------------
+Akk.       neuen      neue       neues      neue                                      
+--------------------------------------------------------------------------
+Dat.       neuen      neuen      neuen      neuen                                     
+--------------------------------------------------------------------------
+Gen.       neuen      neuen      neuen      neuer                                     
+--------------------------------------------------------------------------
+
+WEAK INFLECTION: with definite articles
 ---------------------------------------------------------------------------
            M.      F.      N.      Pl.                                     
 ---------------------------------------------------------------------------
@@ -29,3 +47,13 @@ Dat.       en      en      en      en
 Gen.       en      en      en      en                                      
 ----------------------------------------------------------------------------    
 
+
+
+Examples:
+------------
+1. Wir helfen einem alten Mann/einer alten Frau/einem alten Stinktier/keinen alten Leuten.
+2. Der unsichtbare Freund eines exzentrischen Mannes/einer exzentrischen.
+3. Barney ißt jeden tag ein rohes Ei, eine kleine Katze und einen kleinen Hund. 
+4. Der Mann ist alt/Die Frau läuft schnell/Das Kind schreit laut.
+5. Wir essen ein leckeres Butterbrot mit frischem Schinken, frischer Wurst.
+6. Ich esse ihren alten Apfel/ihre alte Kuh/ihre altes Schmalz/ihre alten Bananen.
