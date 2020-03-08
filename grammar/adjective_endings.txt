@@ -1,51 +1,27 @@
 There are three types of adjective endings based on whether (1) no 
 article is used (2) an indfinite article is used (3) a definite 
-article is used. 
+article is used.
 
-STRONG INFLECTION: no articles
+The Mega Chart
 --------------------------------------------------------------------------
-* When no article is used
-* When a quantity is indicated by
-  * etwas, mehr, wenig, viel, mehrer, einig
-  * a number, without a definite article before it
-  * non-inflectable phrases: ein paar, ein bisschen
+          M.            F.           N.            Pl.
 --------------------------------------------------------------------------
-           M.      F.      N.      Pl.
+Nom    der   -e      die   -e      das    -e      die    -en 
+       ein   -er     eine  -e      ein    -es     keine  -en
+        -    -r       -    -e       -     -es       -    -e
 --------------------------------------------------------------------------
-Nom.       er      e       es      e                                      
---------------------------------------------------------------------------
-Akk.       en      e       es      e                                      
---------------------------------------------------------------------------
-Dat.       en      er      em      en                                     
---------------------------------------------------------------------------
-Gen.       en      er      en      er                                     
---------------------------------------------------------------------------
-
-MIXED INFLECTION: with indefinite articles
---------------------------------------------------------------------------
-             M.         F.          N.       Pl.
---------------------------------------------------------------------------
-Nom.       neuer      neue       neues      neue                                      
---------------------------------------------------------------------------
-Akk.       neuen      neue       neues      neue                                      
---------------------------------------------------------------------------
-Dat.       neuen      neuen      neuen      neuen                                     
---------------------------------------------------------------------------
-Gen.       neuen      neuen      neuen      neuer                                     
---------------------------------------------------------------------------
-
-WEAK INFLECTION: with definite articles
+Akk    den   -en     die   -e      das    -e      die    -en
+       einen -en     eine  -e      ein    -es     keine  -en 
+         -   -en      -    -e       -     -es       -    -e
 ---------------------------------------------------------------------------
-           M.      F.      N.      Pl.                                     
+Dat    dem   -en     der   -en     dem    -en     den    -en
+       einem -en     einer -en     einem  -en     keinen -e
+         -   -em       -   -er       -    -em       -    -en
 ---------------------------------------------------------------------------
-Nom.       e       e       e       en                                      
+Gen    des   -en     der    -en    des    -en     der    -en
+       eines -en     einer  -en    eines  -en     
+         -   -en       -    -er      -    -en      -     -er    
 ---------------------------------------------------------------------------
-Akk.       en      e       e       en                                      
----------------------------------------------------------------------------
-Dat.       en      en      en      en                                      
----------------------------------------------------------------------------
-Gen.       en      en      en      en                                      
-----------------------------------------------------------------------------    
 
 Indefinite article - ein, eine
 ----------------------------------------------------------------------------
