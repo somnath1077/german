@@ -2,7 +2,10 @@ There are three types of adjective endings based on whether (1) no
 article is used (2) an indfinite article is used (3) a definite 
 article is used.
 
-The Mega Chart
+The following mega chart and the examples are from the YouTube channel: 
+Lang NorteDame
+
+https://www.youtube.com/watch?v=UgRDUCnH2Ps
 --------------------------------------------------------------------------
           M.            F.           N.            Pl.
 --------------------------------------------------------------------------
@@ -22,6 +25,51 @@ Gen    des   -en     der    -en    des    -en     der    -en
        eines -en     einer  -en    eines  -en     
          -   -en       -    -er      -    -en      -     -er    
 ---------------------------------------------------------------------------
+
+Examples:
+
+Nom. M. 
+
+Der freundliche Mann spielt Fußball.
+Ein freundlischer Mann spielt Fußball.
+Alter Käse stinkt.
+
+Nom. F.
+
+Die freundliche Frau liest ein Buch.
+Eine freundliche Frau fährt Fahrrad.
+Frische Luft tut gut!
+
+Nom. N.
+
+Das neue Auto ist schnell.
+Das ist ein tolles, neues Auto.
+Kaltes Wasser fließt aus den Bergen.
+
+Nom. Pl.
+
+Die neun Studenten sind so jung.
+Keine deutschen Restaurants geben einem Wasser umsonst.
+Neue Studenten sind überall auf dem Campus!
+
+Akk. M. 
+
+Kennst du den neuen Professor?
+Wir haben ein neuen Hund gekauft.
+Mein Vater isst gern stinkenden Käse.
+
+Akk. F.
+
+Ich mag die neue Chefin.
+Wir brauchen eine neue Bundeskanzlerin.
+Ich brauche frische Luft.
+
+Akk. N.
+
+Wir fahren heute in das neue Kino.
+Ich fahre ein altes Auto.
+Die Fed druckt immer wieder neues Geld.
+
 
 Indefinite article - ein, eine
 ----------------------------------------------------------------------------
