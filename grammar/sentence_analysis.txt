@@ -1,0 +1,37 @@
+Satzteilanalyse:
+
+1. Verschiebeprobe, um die Länge der Satzteil zu bestimmen:
+    Jeden Satzteil auf die Position 1 umstellen, um zu prüfen, ob man nicht ein
+    Satzteil fälschlich getrennt hat.
+
+    Die Frau1 gibt der Frau2 die Blume.  (Ausgangssatz, dessen Satzteile zu
+                                          bestimmen sind)
+    Die Blume gibt die Frau1 der Frau2.  (Umgestellter Satz1)
+    Der Frau2 gibt die Frau1 die Blume.  (Umgestellter Satz2)
+-----------------
+    Satzteile: Die Frau1; Die Blume; Der Frau2; gibt
+->    Die Frau1 / gibt / der Frau2 / die Blume.
+
+2. Funktionsprüfung der Satzteile
+2.a Nach DaF, Deutsch als Fremdsprache.
+    Fragen nach der Funktion des Satzteils im Satz.
+
+    Wer/Was? Welches Objekt ist aktiv?               Nom.    -> Subjekt
+    Wen/Was? Welches Objekt erleidet die Aktion?     Akk.
+    Wem?     Wer bekommt das Akk.-Objekt?            Dativ
+
+2.b Für Deutsche: Nach Maskulinprobe
+    Maskuline Nomen benutzen, um die Funktion der Satzteile herauszuhören.
+    der -> Nominativ; den -> Akk.; dem -> Dativ
+
+    Die Frau gibt der Frau2  die Blume.  (Kasus schwierig zu unterscheiden)
+    Der Mann gibt dem Jungen den Stift.  (Kasus leichter  zu unterscheiden)
+ ->         N                         D                 A
+------------------------------------------------------------------------------------
+
+Adverbiale Bestimmung des Ortes:                Wechselpräpositionen
+    Ich stelle die Blume auf den Tisch.  Wohin? Ich gehe in deN Akk.
+    Die Blume steht auf dem Tisch.       Wo?       Ich bin iM Dativ
+
+
+
